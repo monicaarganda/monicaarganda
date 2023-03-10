@@ -27,6 +27,7 @@
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![reactstrap](https://img.shields.io/badge/reactstrap-white?style=for-the-badge&logo=react&logoColor=323330)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
@@ -36,7 +37,7 @@
 
 #### Programming Testing: 
 ![jest](https://img.shields.io/badge/Jest-853957?style=for-the-badge&logo=jest&logoColor=white)
-![RSPEC](https://img.shields.io/badge/RSPEC-ff496c?style=for-the-badge&logo=ruby&logoColor=96efff)
+![RSPEC](https://img.shields.io/badge/RSPEC-fc9cac?style=for-the-badge&logo=ruby&logoColor=6ce0f9)
 
 ## 🔗 Let's Connect!
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/monica-arganda/)
